@@ -1,0 +1,7 @@
+ font-family: 'Inconsolata', monospace;
+font-family: 'Ubuntu', sans-serif;
+font-family: 'Playfair Display', serif;
+color:
+black:#000000
+yellow:#b4ad9e
+ash: #626262
