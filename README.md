@@ -1,2 +1,1 @@
-# minimo
-minimo
+https://naserparvez.github.io/minimo/
